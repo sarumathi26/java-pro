@@ -3,6 +3,9 @@ public class Main {
 
 	public static void main(String a[])
 	{
-		System.out.print("hello world");
+		System.out.println("hello world");
+		System.out.println("welcome");
+		System.out.print("wonder");
+		
 	}
 }
